@@ -16,8 +16,6 @@ src="https://img.shields.io/github/followers/reggyshicky?logo=github&style=for-t
 src="https://img.shields.io/twitter/follow/Reggyshikanda?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"
 /></a>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/reggyshicky"><img src="https://github-readme-stats.vercel.app/api?username=reggyshicky&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="reggyshicky's GitHub stats" /></a>
