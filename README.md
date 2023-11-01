@@ -9,7 +9,7 @@ Software Developer
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
 * 🧠  I'm learning C# && .NET, Python $$ Django
-* 🤝  I'm open to collaborating on Projects in Backend, Frontend and Data Science
+* 🤝  I'm open to collaborating on Projects in Backend and Frontend
 
 <a href="https://www.github.com/reggyshicky" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/reggyshicky?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a><a href="https://www.x.com/Reggyshikanda" target="_blank" rel="noreferrer"><img
