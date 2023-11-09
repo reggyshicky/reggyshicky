@@ -1,4 +1,4 @@
-Hi 👋 My name is Reginah
+Hi 👋 My name is Reggy
 ========================
 
 Aspiring Software Developer
