@@ -1,14 +1,14 @@
 Hi 👋 My name is Reginah
 ========================
 
-Software Developer
+Aspiring Software Developer
 ------------------
 
-👨‍💻 Transforming ideas into elegant code | Bridging technology and economics | Exploring the world of data 📊
+👨‍💻 Transforming ideas into elegant code | Bridging technology and economics
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
-* 🧠  I'm learning C# && .NET, Python $$ Django
+* 🧠  I'm learning C# && .NET, Python && Django
 * 🤝  I'm open to collaborating on Projects in Backend and Frontend
 
 <a href="https://www.github.com/reggyshicky" target="_blank" rel="noreferrer"><img
