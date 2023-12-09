@@ -8,7 +8,7 @@ Aspiring Software Developer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
-* 🧠  I'm learning C# && .NET, Python && Django
+* 🧠  I'm learning Java && Spring Boot
 * 🤝  I'm open to collaborating on Projects in Backend and Frontend
 
 <a href="https://www.github.com/reggyshicky" target="_blank" rel="noreferrer"><img
