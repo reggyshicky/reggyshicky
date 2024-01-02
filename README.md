@@ -8,7 +8,7 @@ Aspiring Software Developer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
-* 🧠  Reggy's Stack: Java && Spring Boot, C# && .NET
+* 🧠  Java && Spring Boot, C# && .NET
 * 🤝  Backend Enthustiast!
   
 <a href="https://www.github.com/reggyshicky" target="_blank" rel="noreferrer"><img
