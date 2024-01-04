@@ -1,7 +1,7 @@
 Hi 👋 My name is Reggy
 ========================
 
-Aspiring Software Developer
+Software Developer
 ------------------
 
 👨‍💻 Transforming ideas into elegant code | Bridging technology and economics
