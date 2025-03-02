@@ -8,7 +8,7 @@ Software Developer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
-* 🧠  C# & .NET
+* 🧠  C# & .NET, Java and SpringBoot
 * 🤝  Backend Enthustiast!
   
 <a href="https://www.github.com/reggyshicky" target="_blank" rel="noreferrer"><img
