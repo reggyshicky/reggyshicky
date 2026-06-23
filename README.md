@@ -4,7 +4,7 @@ Hi 👋 My name is Reggy
 Software Developer
 ------------------
 
-👨‍💻 Transforming ideas into elegant code | Bridging technology and economics
+👨‍💻 Transforming ideas into elegant code | Bridging Technology and Economics
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [reginahshikanda@gmail.com](mailto:reginahshikanda@gmail.com)
